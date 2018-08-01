@@ -1,0 +1,9 @@
+[submodule "spring-microservices"]
+	path = spring-microservices
+	url = https://github.com/aymehri/spring-microservices.git
+[submodule "spring-microservices-ribbon"]
+	path = spring-microservices-ribbon
+	url = https://github.com/aymehri/spring-microservices-ribbon.git
+[submodule "spring-microservices-hystrix"]
+	path = spring-microservices-hystrix
+	url = https://github.com/aymehri/spring-microservices-hystrix.git
